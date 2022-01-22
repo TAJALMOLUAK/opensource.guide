@@ -1,3 +1,6 @@
+[LICENSE.txt](https://github.com/github/opensource.guide/files/7917484/LICENSE.txt)
+[build.txt](https://github.com/github/opensource.guide/files/7917485/build.txt)
+[NOTICE.txt](https://github.com/github/opensource.guide/files/7917486/NOTICE.txt)
 ---
 lang: en
 title: The Legal Side of Open Source
